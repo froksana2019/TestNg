@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "Testsuite">
+<test name = "loginTestForTechFios">
+<Parameter name = "username" value ="techfiosdemo@gmail.com"/>
+<Parameter name = "password" value = "abc123"/>
+<classes>
+<class name = "test.loginTest"/>
+
+</classes>
+
+</test>
+
+
+</suite>
